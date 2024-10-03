@@ -21,7 +21,7 @@ export default function About(): JSX.Element {
       </p>
 
       <p>
-        If you'd like to collaborate, please send me an email or reach out <Link to='/contact' style={{ fontWeight: 'bold' }}><FaLink />Here</Link>.
+        If you'd like to collaborate, please send me an email or reach out <Link to='/contact' style={{ fontWeight: 'bold' }}>Here</Link>.
       </p>
 
       <div className='show-skills'>
