@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Inception (42 Network)",
+    "description": "Inception 42 is a system administration exercise focused on creating a small infrastructure using Docker. This project aims to deepen understanding of system administration concepts through practical application.",
+    "languages": [
+      "SQL",
+      "Shell script"
+    ],
+    "tools": [
+      "WordPress",
+      "mariaDB",
+      "php-fpm",
+      "adminer",
+      "Nginx",
+      "redis"
+    ],
+    "technologies": [
+      "Docker",
+      "Docker Compose",
+      "mariaDB",
+      "Nginx"
+    ]
+  },
+  {
+    "title": "E-commerce Platform",
+    "description": "A full-stack e-commerce solution with user authentication, product management, and payment integration.",
+    "languages": [
+      "JavaScript",
+      "Python"
+    ],
+    "tools": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "technologies": [
+      "Redux",
+      "Stripe API",
+      "AWS S3"
+    ]
+  },
+  {
+    "title": "E-commerce Platform",
+    "description": "A full-stack e-commerce solution with user authentication, product management, and payment integration.",
+    "languages": [
+      "JavaScript",
+      "Python"
+    ],
+    "tools": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "technologies": [
+      "Redux",
+      "Stripe API",
+      "AWS S3"
+    ]
+  },
+  {
+    "title": "E-commerce Platform",
+    "description": "A full-stack e-commerce solution with user authentication, product management, and payment integration.",
+    "languages": [
+      "JavaScript",
+      "Python"
+    ],
+    "tools": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "technologies": [
+      "Redux",
+      "Stripe API",
+      "AWS S3"
+    ]
+  },
+  {
+    "title": "Weather App",
+    "description": "A responsive weather application that provides real-time weather data and forecasts.",
+    "languages": [
+      "JavaScript"
+    ],
+    "tools": [
+      "React Native",
+      "Expo"
+    ],
+    "technologies": [
+      "OpenWeatherMap API",
+      "Geolocation"
+    ]
+  },
+  {
+    "title": "Task Management System",
+    "description": "A collaborative task management tool for teams with real-time updates and analytics.",
+    "languages": [
+      "TypeScript",
+      "Python"
+    ],
+    "tools": [
+      "Angular",
+      "Django",
+      "PostgreSQL"
+    ],
+    "technologies": [
+      "WebSockets",
+      "Chart.js",
+      "Docker"
+    ]
+  }
+]

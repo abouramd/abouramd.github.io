@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Futura Book';
+  src: url('./assest/fonts/FuturaPTBook.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Futura Bold';
+  src: url('./assest/fonts/FuturaPTBold.otf') format('opentype');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  font-family: 'Futura Book', sans-serif;
+  font-weight: 400;
+  background-color: inherit;
+  color: inherit;
+}
+
+:root {
+  --primary: #f9a826;
+  --secondary: #f4f4f4;
+  --text: #333;
+  --bg: #f4f4f4;
+  color: var(--text);
+  background-color: var(--bg);
+}
+
+h1 {
+  font-family: 'Futura Bold', sans-serif;
+  font-weight: 400;
+}
+
+html.dark {
+  --primary: #f9a826;
+  --secondary: #333;
+  --text: #f4f4f4;
+  --bg: #333;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}

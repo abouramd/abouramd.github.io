@@ -1,0 +1,25 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1%;
+
+  svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+    color: var(--primary);
+  }
+
+  .icon {
+    height: 24px;
+    font-size: 24px;
+  }
+}
