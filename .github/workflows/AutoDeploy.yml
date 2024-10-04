@@ -3,6 +3,8 @@
 
 name: Auto Deploy
 
+permissions: write-all | read-all
+
 on:
   push:
     branches: [ "main" ]
