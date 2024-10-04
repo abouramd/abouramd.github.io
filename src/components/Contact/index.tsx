@@ -1,5 +1,5 @@
 import './index.css';
-import React, { ChangeEvent, FormEvent, useEffect, useState } from 'react';
+import React, { ChangeEvent, FormEvent, useState } from 'react';
 import { FaPaperPlane } from 'react-icons/fa6';
 import { Store } from 'react-notifications-component';
 
