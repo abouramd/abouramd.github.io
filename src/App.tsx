@@ -15,7 +15,7 @@ function App(): JSX.Element {
       <ReactNotifications />
       <BrowserRouter>
         <Routes>
-          <Route path='/' element={<Layout />} >
+          <Route path='/' element={<Layout />}>
             <Route index element={<About />} />
             <Route path='contact' element={<Contact />} />
             <Route path='projects' element={<Projects />} />
