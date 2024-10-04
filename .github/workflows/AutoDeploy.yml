@@ -3,7 +3,7 @@
 
 name: Auto Deploy
 
-permissions: write-all | read-all
+permissions: write-all
 
 on:
   push:
