@@ -8,7 +8,7 @@ import { FaRegFilePdf } from "react-icons/fa6";
 export default function About(): JSX.Element {
   return (
     <div className="about-section">
-      <img src={profileImg} alt={"profile image"} className="profile-image" rel="noreferrer" />
+      <img src={profileImg} alt={"Abdelhay Bouramdane"} className="profile-image" rel="noreferrer" />
 
       <h1>Abdelhay Bouramdane</h1>
 
