@@ -13,7 +13,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
   title,
   description,
   technologies,
-  sourceCodeLink = '#'
+  sourceCodeLink = ''
 }) => {
   return (
     <div className="project-card">
@@ -27,9 +27,13 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
           ))}
         </ul>
       </div>
-      <a href={sourceCodeLink} target="_blank" rel="noopener noreferrer" className="source-code-link">
-        <FaLink /> View Source Code
-      </a>
+      {sourceCodeLink ?
+        <a href={sourceCodeLink} target="_blank" rel="noopener noreferrer" className="source-code-link">
+          <FaLink /> View Source Code
+        </a>
+        :
+        ''
+      }
     </div>
   );
 };
