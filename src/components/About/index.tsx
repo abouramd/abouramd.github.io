@@ -11,6 +11,7 @@ import {
   BiLogoReact,
   BiLogoTypescript,
 } from "react-icons/bi";
+import { TbBrandNextjs } from "react-icons/tb";
 import { Link } from "react-router-dom";
 import { FaRegFilePdf } from "react-icons/fa6";
 
@@ -69,6 +70,7 @@ export default function About(): JSX.Element {
         <BiLogoJavascript className="icon js-icon" />
         <BiLogoTypescript className="icon ts-icon" />
         <BiLogoReact className="icon react-icon" />
+        <TbBrandNextjs className="icon next-icon" />
         <BiLogoDocker className="icon docker-icon" />
         <BiLogoCPlusPlus className="icon cpp-icon" />
         <BiLogoGit className="icon git-icon" />
