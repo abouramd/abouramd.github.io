@@ -28,7 +28,7 @@ export default function About(): JSX.Element {
       <h1>Abdelhay Bouramdane</h1>
 
       <p>
-        I'm a <b>Software developer</b> student at 1337 School (42 Network).
+        I'm a <b>Software developer</b> student at 1337 School (UM6P).
         Skilled in C, C++, JavaScript, shell and problem solving. with more then
         200{" "}
         <a
