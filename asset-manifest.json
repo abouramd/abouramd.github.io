@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45fe6b21.css",
+    "main.js": "/static/js/main.15bc1d74.js",
+    "static/media/profileImg.jpeg": "/static/media/profileImg.04273874c78e51163051.jpeg",
+    "static/media/FuturaPTBold.otf": "/static/media/FuturaPTBold.b22b8109a56a2445c366.otf",
+    "static/media/FuturaPTBook.otf": "/static/media/FuturaPTBook.bc305be0a88a100ad836.otf",
+    "index.html": "/index.html",
+    "main.45fe6b21.css.map": "/static/css/main.45fe6b21.css.map",
+    "main.15bc1d74.js.map": "/static/js/main.15bc1d74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45fe6b21.css",
+    "static/js/main.15bc1d74.js"
+  ]
+}
