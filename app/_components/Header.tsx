@@ -4,7 +4,6 @@ import Link from 'next/link'
 import { Menu, MoonIcon, SunIcon } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { useTheme } from 'next-themes';
-import Variants from './Nav';
 import { Sheet, SheetContent, SheetTitle, SheetTrigger } from '@/components/ui/sheet';
 
 export default function Header() {
